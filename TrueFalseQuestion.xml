@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+	<name>
+		<text>Demo question true false</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la bonne réponse ?</text>
+	</questiontext>
+	<answer fraction="100">
+		<text>Ceci est la bonne réponse</text>
+		<feedback>
+			<text>Bravo !</text>
+		</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Une mauvaise réponse</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
+</question>
